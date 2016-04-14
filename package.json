@@ -1,0 +1,28 @@
+{
+  "name": "bp-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "big panda exercise",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:netanelturjeman/bp-exercise.git"
+  },
+  "author": "Netanel Turjeman",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "lodash": "3.10.1",
+    "request": "^2.71.0",
+    "split": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "3.0.0",
+    "grunt": "~0.4.5",
+    "mocha": "*",
+    "should": "*",
+    "sinon": "*",
+    "sinon-chai": "2.8.0"
+  }
+}
